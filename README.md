@@ -3,7 +3,7 @@
 This project analyzes cybercrime incidents reported in India between 2014 and 2023, with the aim of identifying key trends, targeted sectors, financial losses, and most affected regions. The final result is a visually rich Power BI dashboard that helps highlight areas of concern in the cybersecurity landscape.
 
 📸 Dashboard Preview
-C:\\Users\\ADMIN\\Pictures\\Screenshots\\Online_scam_report.png
+[C:\\Users\\ADMIN\\Pictures\\Screenshots\\Online_scam_report.png](https://github.com/Abhay-datascience/Online-Scams-in_India/blob/main/Online_scam_report.png)
 
 ## 📊 Dashboard Highlights
 
